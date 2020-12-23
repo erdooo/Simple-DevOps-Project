@@ -5,6 +5,10 @@ Git is one of the most popular tools for version control system. you can pull co
 #### Prerequisites
 1. Jenkins server 
 
+### For better naming convention we will change the name of the server
+
+Please type hostname jenkins
+
 #### Install Git on Jenkins server
 1. Install git packages on jenkins server
    ```sh
