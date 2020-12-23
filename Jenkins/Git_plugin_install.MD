@@ -20,5 +20,5 @@ Please type hostname jenkins and then login as sudo to take it effect
   - `Manage Jenkins` > `Jenkins Plugins` > `available` > `github`
 
 - Configure git path
-  - `Manage Jenkins` > `Global Tool Configuration` > `git`
+  - `Manage Jenkins` > `Global Tool Configuration` > "/usr/bin/git" 
 
