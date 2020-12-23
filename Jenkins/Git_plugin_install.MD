@@ -7,7 +7,7 @@ Git is one of the most popular tools for version control system. you can pull co
 
 ### For better naming convention we will change the name of the server
 
-Please type hostname jenkins
+Please type hostname jenkins and then login as sudo to take it effect
 
 #### Install Git on Jenkins server
 1. Install git packages on jenkins server
